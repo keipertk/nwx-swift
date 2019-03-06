@@ -1,0 +1,13 @@
+WARN  Preprocessor warnings:
+pyFunc.swift:6:12: warning: missing terminating " character
+   python("""
+            ^
+pyFunc.swift:16:14: warning: missing terminating " character
+ """, "repr(0)");
+              ^
+
+   0.000 WORK TYPES: WORK REPUT
+   0.000 WORKERS: 1 RANKS: 0 - 0
+   0.000 SERVERS: 1 RANKS: 1 - 1
+   0.001 function:swift:constants
+   0.001 function: __entry

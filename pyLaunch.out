@@ -1,0 +1,24 @@
+   0.000 WORK TYPES: WORK REPUT
+   0.000 WORKERS: 1 RANKS: 0 - 0
+   0.000 SERVERS: 1 RANKS: 1 - 1
+   0.001 function:swift:constants
+   0.018 allocated string: c:s_homekriswf=<1>
+   0.018 store: <1>="/home/kris/wf/demos/rhf.py"
+   0.018 function: __entry
+   0.018 allocated t:6=<2> u:arg=<3>
+   0.019 array_kv_build: <3> 1 elems, write_decr 1
+   0.019 rule: <1> <3> => turbine::launch_tcl_body 2 1 3
+rhf: Import Passed
+rhf: GA_Initialize passed
+rhf: Input initialization passed
+   1.798 store: <2>=0
+   1.898 turbine finalizing
+   1.898 ADLB_Finalize_Cmd() start
+   1.898 MPI_Finalize start
+   1.882 turbine finalizing
+   1.882 ADLB_Finalize_Cmd() start
+   1.889 MPI_Finalize start
+   1.889 MPI_Finalize stop
+   1.889 ADLB_Finalize_Cmd() stop
+   1.907 MPI_Finalize stop
+   1.907 ADLB_Finalize_Cmd() stop
